@@ -1,6 +1,6 @@
 # Images-ReNamer
 
-Images ReNamer is a simple desktop application Python-based that allows you to rename image files in a folder. You can use this app to quickly rename images with a custom name and avoid manually renaming each file.
+Images ReNamer is a desktop application Python-based that allows you to rename image files in a folder. You can use this app to quickly rename images with a custom name and avoid manually renaming each file.
 
 ## How to Use
 
